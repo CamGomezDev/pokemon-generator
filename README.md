@@ -6,7 +6,7 @@ This project was made for this YouTube video:
 
 It's deployed here, if you want to check it out: https://poke-generator.herokuapp.com/
 
-![alt text](https://github.com/dokasov/pokemon-generator/blob/master/git.png)
+![alt text](https://github.com/dokasov/pokemon-generator/blob/master/git-img.png)
 
 I tried to make all of the deep learning code as independent from the Vue code as possible, so it's all in the `learn` folder inside `src`. I also included in the `pokemons-scraper` folder the web scraper I used to get all of the Pokemon names from this database: https://pokemondb.net/pokedex/national
 
