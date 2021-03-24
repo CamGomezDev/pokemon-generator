@@ -2,6 +2,8 @@
 
 This is a Pokemon name generator that works in the browser in the form of a Vue app. It uses TensorFlow.js for all of the deep learning code. The neural network is composed of an LSTM layer for processing a Dense layer for the output.
 
+This entire project was made for this YouTube video: https://youtu.be/IdVKnazDPXA
+
 It's deployed here, if you want to check it out: https://poke-generator.herokuapp.com/
 
 ![alt text](https://github.com/dokasov/pokemon-generator/blob/master/git-img.png)
